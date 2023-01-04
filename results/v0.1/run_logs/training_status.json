@@ -1,0 +1,65 @@
+{
+    "ParkingCarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499996,
+                "file_path": "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-499996.onnx",
+                "reward": 0.026598255368108215,
+                "creation_time": 1672799655.835859,
+                "auxillary_file_paths": [
+                    "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-499996.pt"
+                ]
+            },
+            {
+                "steps": 999992,
+                "file_path": "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-999992.onnx",
+                "reward": 0.04414679247932936,
+                "creation_time": 1672805201.384189,
+                "auxillary_file_paths": [
+                    "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-999992.pt"
+                ]
+            },
+            {
+                "steps": 1499978,
+                "file_path": "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-1499978.onnx",
+                "reward": 0.041500002933102416,
+                "creation_time": 1672811280.351079,
+                "auxillary_file_paths": [
+                    "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-1499978.pt"
+                ]
+            },
+            {
+                "steps": 1999979,
+                "file_path": "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-1999979.onnx",
+                "reward": 0.05775510599333033,
+                "creation_time": 1672817529.365128,
+                "auxillary_file_paths": [
+                    "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-1999979.pt"
+                ]
+            },
+            {
+                "steps": 2302424,
+                "file_path": "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-2302424.onnx",
+                "reward": 0.05270370697662993,
+                "creation_time": 1672821133.831223,
+                "auxillary_file_paths": [
+                    "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-2302424.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2302424,
+            "file_path": "results/v0.1/ParkingCarBehavior.onnx",
+            "reward": 0.05270370697662993,
+            "creation_time": 1672821133.831223,
+            "auxillary_file_paths": [
+                "results/v0.1/ParkingCarBehavior/ParkingCarBehavior-2302424.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

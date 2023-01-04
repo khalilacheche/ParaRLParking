@@ -1,0 +1,56 @@
+{
+    "ParkingCarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499988,
+                "file_path": "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-499988.onnx",
+                "reward": 0.13061668284703046,
+                "creation_time": 1672836039.266894,
+                "auxillary_file_paths": [
+                    "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-499988.pt"
+                ]
+            },
+            {
+                "steps": 999983,
+                "file_path": "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-999983.onnx",
+                "reward": 0.5655715182339422,
+                "creation_time": 1672842907.053709,
+                "auxillary_file_paths": [
+                    "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-999983.pt"
+                ]
+            },
+            {
+                "steps": 1499996,
+                "file_path": "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-1499996.onnx",
+                "reward": 0.8894093418238009,
+                "creation_time": 1672848798.479229,
+                "auxillary_file_paths": [
+                    "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-1499996.pt"
+                ]
+            },
+            {
+                "steps": 1515239,
+                "file_path": "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-1515239.onnx",
+                "reward": 0.9023100590259429,
+                "creation_time": 1672848963.807604,
+                "auxillary_file_paths": [
+                    "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-1515239.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1515239,
+            "file_path": "results/v0.2/ParkingCarBehavior.onnx",
+            "reward": 0.9023100590259429,
+            "creation_time": 1672848963.807604,
+            "auxillary_file_paths": [
+                "results/v0.2/ParkingCarBehavior/ParkingCarBehavior-1515239.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}

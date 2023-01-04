@@ -1,0 +1,56 @@
+{
+    "ParkingCarBehavior": {
+        "checkpoints": [
+            {
+                "steps": 499951,
+                "file_path": "results/ppo/ParkingCarBehavior/ParkingCarBehavior-499951.onnx",
+                "reward": -0.2718699994055848,
+                "creation_time": 1672790373.858253,
+                "auxillary_file_paths": [
+                    "results/ppo/ParkingCarBehavior/ParkingCarBehavior-499951.pt"
+                ]
+            },
+            {
+                "steps": 601989,
+                "file_path": "results/ppo/ParkingCarBehavior/ParkingCarBehavior-601989.onnx",
+                "reward": 0.477086323638295,
+                "creation_time": 1672791934.238145,
+                "auxillary_file_paths": [
+                    "results/ppo/ParkingCarBehavior/ParkingCarBehavior-601989.pt"
+                ]
+            },
+            {
+                "steps": 612271,
+                "file_path": "results/ppo/ParkingCarBehavior/ParkingCarBehavior-612271.onnx",
+                "reward": null,
+                "creation_time": 1672828678.262363,
+                "auxillary_file_paths": [
+                    "results/ppo/ParkingCarBehavior/ParkingCarBehavior-612271.pt"
+                ]
+            },
+            {
+                "steps": 622533,
+                "file_path": "results/ppo/ParkingCarBehavior/ParkingCarBehavior-622533.onnx",
+                "reward": null,
+                "creation_time": 1672828865.1655848,
+                "auxillary_file_paths": [
+                    "results/ppo/ParkingCarBehavior/ParkingCarBehavior-622533.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 622533,
+            "file_path": "results/ppo/ParkingCarBehavior.onnx",
+            "reward": null,
+            "creation_time": 1672828865.1655848,
+            "auxillary_file_paths": [
+                "results/ppo/ParkingCarBehavior/ParkingCarBehavior-622533.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}
