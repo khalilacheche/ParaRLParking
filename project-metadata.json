@@ -2,8 +2,16 @@
   "title": "ParaRL Parking",
   "img_path": "https://raw.githubusercontent.com/khalilacheche/ParaRLParking/project-metadata/parl.gif",
   "description": "Using Unity's ML Agents toolkit to create a car that parks",
-  "tags": ["Game Dev","Machine Learning"],
-  "langs": ["C#"],
+  "tags": [
+    "Game Dev",
+    "Machine Learning"
+  ],
+  "langs": [
+    "C#"
+  ],
   "link": "https://khalilacheche.github.io/ParaRLParkingDemo/",
-  "frameworks":["Unity"]
+  "frameworks": [
+    "Unity"
+  ],
+  "date": "2023-01"
 }
